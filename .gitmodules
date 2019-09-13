@@ -1,8 +1,0 @@
-[submodule "mgear_3.2.0"]
-	url = https://github.com/divyanshuarora-92/submodule
-	path = repo/users/root/packages/mgear_3.2.0
-	active = true
-[submodule "mgear_4.2.5"]
-	url = https://github.com/divyanshuarora-92/submodule
-	path = repo/users/root/packages/mgear_4.2.5
-	active = true
